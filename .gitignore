@@ -1,0 +1,6 @@
+# Project exclude paths
+/nifi-shodan-nar/target/
+/nifi-shodan-processors/target/
+/target/
+*.iml
+/.idea
